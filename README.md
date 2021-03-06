@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
 
 ![Souleigh's github stats](https://github-readme-stats.vercel.app/api?username=hsl947&show_icons=true) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsl947&repo=react-antd-multi-tabs-admin)](https://github.com/hsl947/react-antd-multi-tabs-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloworld-Co&repo=html2md)](https://github.com/helloworld-Co/html2md)
+
