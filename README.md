@@ -1,32 +1,39 @@
 ## Hi there 👋 , I'm Souleigh, a Frontend Developer 🚀 from China.
 
+<br>
 
-<!--
-**hsl947/hsl947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/hsl947" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=hsl947&title_color=333&text_color=777&show_icons=true" alt="Souleigh's github stats" >
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsl947&repo=react-antd-multi-tabs-admin)](https://github.com/hsl947/react-antd-multi-tabs-admin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloworld-Co&repo=html2md)](https://github.com/helloworld-Co/html2md)
-
-<a href="https://github.com/hsl947/react-antd-multi-tabs-admin" style="display:inline-block;">
-  <img align="center" height="120" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hsl947&repo=react-antd-multi-tabs-admin" />
-</a>
-
-<a href="https://github.com/helloworld-Co/html2md" style="display:inline-block;">
-  <img align="center" height="140" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=helloworld-Co&repo=html2md" />
-</a>
--->
-
-![Souleigh's github stats](https://github-readme-stats.vercel.app/api?username=hsl947&show_icons=true) 
-
+<p>
+  <br>
+  <strong>Languages and Tools</strong>
+  <br><br>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  </code>
+  <code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  </code>
+</p>
